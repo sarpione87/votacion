@@ -1,0 +1,1 @@
+// API para finalizar votación
